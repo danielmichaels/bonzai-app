@@ -1,6 +1,7 @@
 {
   "github_username": "danielmichaels",
   "project_name": "bonzai app",
+  "project_slug": "demo",
   "cmd_name": "app",
   "project_description": "A [bonzai](https://github.com/rwxrob/bonzai) cookiecutter project for quickly bootstraping new bonzai branches",
   "go_module_path": "github.com/{{ cookiecutter.github_username.strip() }}/{{ cookiecutter.project_name.replace(' ', '-') }}",
